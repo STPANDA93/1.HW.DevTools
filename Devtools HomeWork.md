@@ -1,8 +1,8 @@
 # DevTools HomeWork
 
-## Сделать скрин видео выполнения задания.
+## Сделать видео выполнения задания.
 
-### Скачайте видео, чтоб посмотреть в отличном качестве! <a href="https://drive.google.com/file/d/1PQL39pBT3DrpuOsVL8cK1y0i4hIyYmiB/view?usp=sharing">Google Drive</a>
+### Выполненное задание, приятного просмотра! <a href="https://drive.google.com/file/d/1PQL39pBT3DrpuOsVL8cK1y0i4hIyYmiB/view?usp=sharing">Google Drive</a>
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
